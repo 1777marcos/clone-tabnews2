@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Luto/LutoCorporação</h1>;
+  return <h1>Luto/LutoCorporação!</h1>;
 }
 
 export default Home;
